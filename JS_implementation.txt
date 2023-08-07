@@ -1,0 +1,23 @@
+Inpage JavaScript
+
+<script>
+
+</script>
+
+---------------------------------------------------------
+
+External JavaScript File
+
+Add link in index.html 
+
+<head>
+
+<script src = "myScript.js"></script>
+
+</head>
+
+
+---------------------------------------------------------
+
+
+
